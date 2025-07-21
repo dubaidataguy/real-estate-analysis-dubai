@@ -101,7 +101,7 @@ This repository contains the code and rent contracts data for analyzing real est
 
 
 ## Historical Data
-   Download the historical data from releases.
+   Download the historical data from [releases](https://github.com/dubaidataguy/real-estate-analysis-dubai/releases).
 
 ## Contributing
 Contributions are welcome! Please review the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
